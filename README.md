@@ -73,10 +73,10 @@ print(valuable_loot[["name", "price", "rarity"]])
 
 ## 🖼 Examples
 📌 **Loot value tracking & flea market price trends:**  
-![Loot Prices](1.png)  
+![Loot Prices](1.jpg)  
 
 📌 **Raid profit and loss analysis:**  
-![Profit Analysis](2.jpg)  
+![Profit Analysis](2.png)  
 
 ---
 
