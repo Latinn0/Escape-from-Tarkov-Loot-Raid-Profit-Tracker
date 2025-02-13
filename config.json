@@ -1,0 +1,5 @@
+{
+    "cloud_data_url": "https://your-cloud-storage-link.com/tarkov_data.json",
+    "default_map": "Customs",
+    "profit_threshold": 100000
+}
